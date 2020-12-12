@@ -6,8 +6,13 @@ Given an excel file of menu items, the script produces a word document with each
 
 You can center align the script's output file (staging.docx in example) and have that as the final product. But this script was made because I needed to put sections in tables and this makes it easier to copy and paste the sections.
 
-<img src="/example1.png" alt="example" />  
-<img src="/example2.png" alt="example continue" />
+Script input(menu.xlsx):
+<img src="/example1.png" alt="Excel doc" />  
+
+---
+
+Script output(staging.docx) and the example final menu(example menu.docx):
+<img src="/example2.png" alt="Script output and the example final menu" />
 
 ## Settings
 
