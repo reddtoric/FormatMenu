@@ -29,4 +29,4 @@ All customizable settings within the file.
 
 ## Note
 
-As you can see in the example pictures, for the last menu item, you have the newline character to insert newline intentionally.
+As you can see in the example pictures, for the last menu item, you can add the newline character to insert newline intentionally.
