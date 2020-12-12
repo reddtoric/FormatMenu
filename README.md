@@ -6,9 +6,8 @@ Given an excel file of menu items, the script produces a word document with each
 
 You can center align the script's output file (staging.docx in example) and have that as the final product. But this script was made because I needed to put sections in tables and this makes it easier to copy and paste the sections.
 
-![example1](https://github.com/reddtoric/FormatMenu/example1.png)
-
-![example2](https://github.com/reddtoric/FormatMenu/example2.png)
+<img src="/example1.png" alt="example" />  
+<img src="/example2.png" alt="example continue" />
 
 ## Settings
 
